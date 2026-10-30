@@ -39,6 +39,6 @@ Also in the org: `mcp-ailiance`, `ailiance-omlx-node`, `ailiance-gaia-x`, `isaac
 
 ## Status
 
-`active development` · `pre-launch` · domain `ailiance.fr` verified 2026-05-11 · ~16 GitHub repos · 20 HF models · 13 HF datasets · 1.0 release pending.
+`closed` · development stopped in October 2026 · repositories kept as a public archive, no further releases planned · 20 HF models · 13 HF datasets.
 
 For questions: `contact@ailiance.fr` · For security: `security@ailiance.fr` (or open a private security advisory on any repo).
